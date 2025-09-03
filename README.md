@@ -1,7 +1,7 @@
 💫 Hi 👋, I'm Chander Shekhar Prajapati
 A passionate web Developer || FrontEnd Developer
 
-Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ shekhar28131@gmail.com For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/offical Bhai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/offical_bhai_003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ChanderShekharPrajapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shekhar28131@gmail.com) 
 
